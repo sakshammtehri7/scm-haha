@@ -16,7 +16,7 @@ press -
 13 - x^n
 14 - root(x)
 15 - percentage(x out of y)
-
+# jsdbjfnjdsbnjdfbndsjbnjf
 """) 
 n = input("") 
 if n == "1": 
